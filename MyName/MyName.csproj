@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Yossatron.MyName</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Authors>Yossatron eiamrit</Authors>
     <Description>Demo Package</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
