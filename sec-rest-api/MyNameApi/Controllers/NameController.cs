@@ -41,7 +41,7 @@ namespace MyNameApi.Controllers
         // public void Delete(int id)
         // {
         // }
-        [HttpGet("sec/abc")]
+        [HttpGet("")]
         public IActionResult Get(){
             Name name = new Name();
             dynamic obj = new ExpandoObject();
