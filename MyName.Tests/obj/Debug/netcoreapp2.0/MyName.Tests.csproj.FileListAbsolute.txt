@@ -1,0 +1,15 @@
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/bin/Debug/netcoreapp2.0/MyName.Tests.deps.json
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/bin/Debug/netcoreapp2.0/MyName.Tests.runtimeconfig.json
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/bin/Debug/netcoreapp2.0/MyName.Tests.runtimeconfig.dev.json
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/bin/Debug/netcoreapp2.0/MyName.Tests.dll
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/bin/Debug/netcoreapp2.0/MyName.Tests.pdb
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/bin/Debug/netcoreapp2.0/MyName.dll
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/bin/Debug/netcoreapp2.0/MyName.pdb
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/obj/Debug/netcoreapp2.0/MyName.Tests.csproj.CoreCompileInputs.cache
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/obj/Debug/netcoreapp2.0/MyName.Tests.AssemblyInfoInputs.cache
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/obj/Debug/netcoreapp2.0/MyName.Tests.AssemblyInfo.cs
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/obj/Debug/netcoreapp2.0/MyName.Tests.dll
+/Users/yossatron/Documents/work/dotnet/MyName.Tests/obj/Debug/netcoreapp2.0/MyName.Tests.pdb
