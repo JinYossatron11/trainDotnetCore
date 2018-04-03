@@ -1,0 +1,12 @@
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/bin/Debug/netcoreapp2.0/MyNameApi.deps.json
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/bin/Debug/netcoreapp2.0/MyNameApi.runtimeconfig.json
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/bin/Debug/netcoreapp2.0/MyNameApi.runtimeconfig.dev.json
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/bin/Debug/netcoreapp2.0/MyNameApi.dll
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/bin/Debug/netcoreapp2.0/MyNameApi.pdb
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.csproj.CoreCompileInputs.cache
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.AssemblyInfoInputs.cache
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.AssemblyInfo.cs
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.dll
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.pdb
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/bin/Debug/netcoreapp2.0/MyName.dll
+/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/bin/Debug/netcoreapp2.0/MyName.pdb
