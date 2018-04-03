@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Yossatron.MyName</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Yossatron eiamrit</Authors>
+    <Description>Demo Package</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNote>First Release</PackageReleaseNote>
+    <Copyright>Copyright 2018 (c) Yossatron eiamrit</Copyright>
+    <PackageTags>demo</PackageTags>
   </PropertyGroup>
 
 </Project>

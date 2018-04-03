@@ -8,7 +8,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yossatron eiamrit")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright 2018 (c) Yossatron eiamrit")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Demo Package")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

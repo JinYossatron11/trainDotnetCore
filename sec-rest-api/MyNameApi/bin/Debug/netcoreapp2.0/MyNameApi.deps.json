@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "7c6491b782d123313f51c5d8be7df63ef9431974"
+    "signature": "f118cd4ed2d4bbf96f986687912204278a29f70c"
   },
   "compilationOptions": {
     "defines": [
@@ -25,7 +25,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.5",
           "Microsoft.NETCore.App": "2.0.0",
-          "MyName": "1.0.0"
+          "Yossatron.MyName": "1.0.0"
         },
         "runtime": {
           "MyNameApi.dll": {}
@@ -3795,12 +3795,12 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
-      "MyName/1.0.0": {
+      "Yossatron.MyName/1.0.0": {
         "runtime": {
-          "MyName.dll": {}
+          "lib/netstandard2.0/MyName.dll": {}
         },
         "compile": {
-          "MyName.dll": {}
+          "lib/netstandard2.0/MyName.dll": {}
         }
       },
       "Microsoft.NETCore.App/2.0.0": {
@@ -5989,10 +5989,12 @@
       "path": "windowsazure.storage/8.1.4",
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
     },
-    "MyName/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
+    "Yossatron.MyName/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eZJfUYukIfQrXaOF6PH+Czrgl7bCelqvzCQK7MbMB/zrJaT7T5XiO3IhFlitaYDesjVYZW5dn87T5/dMRtmcdA==",
+      "path": "yossatron.myname/1.0.0",
+      "hashPath": "yossatron.myname.1.0.0.nupkg.sha512"
     },
     "Microsoft.NETCore.App/2.0.0": {
       "type": "package",

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyName
+namespace Yossatron.MyName
 {
     public class Name
     {

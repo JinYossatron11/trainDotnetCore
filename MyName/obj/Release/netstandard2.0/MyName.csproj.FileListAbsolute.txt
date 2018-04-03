@@ -1,0 +1,8 @@
+/Users/yossatron/Documents/work/dotnet/MyName/bin/Release/netstandard2.0/MyName.deps.json
+/Users/yossatron/Documents/work/dotnet/MyName/bin/Release/netstandard2.0/MyName.dll
+/Users/yossatron/Documents/work/dotnet/MyName/bin/Release/netstandard2.0/MyName.pdb
+/Users/yossatron/Documents/work/dotnet/MyName/obj/Release/netstandard2.0/MyName.csproj.CoreCompileInputs.cache
+/Users/yossatron/Documents/work/dotnet/MyName/obj/Release/netstandard2.0/MyName.AssemblyInfoInputs.cache
+/Users/yossatron/Documents/work/dotnet/MyName/obj/Release/netstandard2.0/MyName.AssemblyInfo.cs
+/Users/yossatron/Documents/work/dotnet/MyName/obj/Release/netstandard2.0/MyName.dll
+/Users/yossatron/Documents/work/dotnet/MyName/obj/Release/netstandard2.0/MyName.pdb

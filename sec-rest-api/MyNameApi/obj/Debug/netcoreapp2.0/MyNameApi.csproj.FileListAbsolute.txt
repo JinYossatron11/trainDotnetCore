@@ -8,5 +8,3 @@
 /Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.AssemblyInfo.cs
 /Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.dll
 /Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.pdb
-/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/bin/Debug/netcoreapp2.0/MyName.dll
-/Users/yossatron/Documents/work/dotnet/sec-rest-api/MyNameApi/bin/Debug/netcoreapp2.0/MyName.pdb

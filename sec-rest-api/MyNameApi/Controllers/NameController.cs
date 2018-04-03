@@ -4,7 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using MyName;
+using Yossatron.MyName;
+using System.Net.Http;
 namespace MyNameApi.Controllers
 {
     [Route("api/[controller]")]
@@ -47,6 +48,14 @@ namespace MyNameApi.Controllers
             dynamic obj = new ExpandoObject();
             obj.name = name.Get();
             return Ok(obj);
+       }
+       [HttpGet("company")]
+
+       public async Task<IActionResult> GetCompany(){
+           HttpClient client = new HttpClient();
+           HttpResponseMessage response = await client.GetAsync("http://10.10.1.8/api/data/companies/listed");
+           string result = await response.Content.ReadAsStringAsync();
+           return Ok(result);
        }
     }
 }

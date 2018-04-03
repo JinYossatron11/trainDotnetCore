@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace MyName.Tests
+namespace Yossatron.MyName.Tests
 {
     public class TestYourName
     {

@@ -4747,14 +4747,13 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
-      "MyName/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+      "Yossatron.MyName/1.0.0": {
+        "type": "package",
         "compile": {
-          "bin/placeholder/MyName.dll": {}
+          "lib/netstandard2.0/MyName.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MyName.dll": {}
+          "lib/netstandard2.0/MyName.dll": {}
         }
       }
     }
@@ -12537,17 +12536,22 @@
         "windowsazure.storage.nuspec"
       ]
     },
-    "MyName/1.0.0": {
-      "type": "project",
-      "path": "../../MyName/MyName.csproj",
-      "msbuildProject": "../../MyName/MyName.csproj"
+    "Yossatron.MyName/1.0.0": {
+      "sha512": "eZJfUYukIfQrXaOF6PH+Czrgl7bCelqvzCQK7MbMB/zrJaT7T5XiO3IhFlitaYDesjVYZW5dn87T5/dMRtmcdA==",
+      "type": "package",
+      "path": "yossatron.myname/1.0.0",
+      "files": [
+        "lib/netstandard2.0/MyName.dll",
+        "yossatron.myname.1.0.0.nupkg.sha512",
+        "yossatron.myname.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.NETCore.App >= 2.0.0",
-      "MyName >= 1.0.0"
+      "Yossatron.MyName >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12577,11 +12581,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "/Users/yossatron/Documents/work/dotnet/MyName/MyName.csproj": {
-              "projectPath": "/Users/yossatron/Documents/work/dotnet/MyName/MyName.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -12601,6 +12601,10 @@
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
+          },
+          "Yossatron.MyName": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           }
         },
         "imports": [

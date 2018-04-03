@@ -1,4 +1,4 @@
-namespace MyName
+namespace Yossatron.MyName
 {
   public  class YourName
     {

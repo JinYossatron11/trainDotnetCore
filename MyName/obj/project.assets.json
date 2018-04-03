@@ -184,7 +184,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/yossatron/Documents/work/dotnet/MyName/MyName.csproj",
-      "projectName": "MyName",
+      "projectName": "Yossatron.MyName",
       "projectPath": "/Users/yossatron/Documents/work/dotnet/MyName/MyName.csproj",
       "packagesPath": "/Users/yossatron/.nuget/packages/",
       "outputPath": "/Users/yossatron/Documents/work/dotnet/MyName/obj/",
